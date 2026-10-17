@@ -1,0 +1,10 @@
+{
+  "name": "Noor — Your daily companion",
+  "short_name": "Noor",
+  "description": "A calm Islamic companion for prayer, Qur'an, Qibla, dhikr and giving.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f0",
+  "theme_color": "#123f35"
+}
